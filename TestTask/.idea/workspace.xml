@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc863d77-e1c6-400c-b59a-872ee1b222b2" name="Default Changelist" comment="Updated  FirstWebTests by using DataProvider" />
+    <list default="true" id="dc863d77-e1c6-400c-b59a-872ee1b222b2" name="Default Changelist" comment="Updated  FirstWebTests by using DataProvider">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_path_4_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_4_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_common_4_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_xml_path_4_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/pages/CabinetPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/pages/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestTask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestTask.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/test/FinalAssignmentTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/test/FinalAssignmentTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/test/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/test/FinalAssignmentTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/test/test/FinalAssignmentTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~$ST answers.docx" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +54,9 @@
   <component name="ProjectId" id="1l714Rgb32q62AJWuJYfVAPc2QO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/drivers/firefox" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.39558825" />
@@ -57,8 +90,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.FinalAssignmentTests.verifySearchPageTest">
-    <configuration name="FinalAssignmentTests.verifyFilterOnMonitorResult" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.FinalAssignmentTests.confirmEmail">
+    <configuration name="FinalAssignmentTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestTask" />
       <extension name="coverage">
         <pattern>
@@ -66,9 +99,26 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course_qa2020.course" />
+      <option name="PACKAGE_NAME" value="com.test.test" />
       <option name="MAIN_CLASS_NAME" value="com.test.test.FinalAssignmentTests" />
-      <option name="METHOD_NAME" value="verifyFilterOnMonitorResult" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalAssignmentTests.confirmEmail" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.test.FinalAssignmentTests" />
+      <option name="METHOD_NAME" value="confirmEmail" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -76,7 +126,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalAssignmentTests.verifyNewReleasesPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FinalAssignmentTests.fillRegistration" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestTask" />
       <extension name="coverage">
         <pattern>
@@ -84,9 +134,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course_qa2020.course" />
+      <option name="PACKAGE_NAME" value="com.test.test" />
       <option name="MAIN_CLASS_NAME" value="com.test.test.FinalAssignmentTests" />
-      <option name="METHOD_NAME" value="verifyNewReleasesPageTest" />
+      <option name="METHOD_NAME" value="fillRegistration" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -94,7 +144,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalAssignmentTests.verifyPrimeOption" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FinalAssignmentTests.verifyEmail" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestTask" />
       <extension name="coverage">
         <pattern>
@@ -102,9 +152,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course_qa2020.course" />
+      <option name="PACKAGE_NAME" value="com.test.test" />
       <option name="MAIN_CLASS_NAME" value="com.test.test.FinalAssignmentTests" />
-      <option name="METHOD_NAME" value="verifyPrimeOption" />
+      <option name="METHOD_NAME" value="verifyEmail" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -130,31 +180,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalAssignmentTests.verifySearchResult" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestTask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course_qa2020.course" />
-      <option name="MAIN_CLASS_NAME" value="com.test.test.FinalAssignmentTests" />
-      <option name="METHOD_NAME" value="verifySearchResult" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FinalAssignmentTests.confirmEmail" />
+        <item itemvalue="TestNG.FinalAssignmentTests" />
+        <item itemvalue="TestNG.FinalAssignmentTests.verifyEmail" />
+        <item itemvalue="TestNG.FinalAssignmentTests.fillRegistration" />
         <item itemvalue="TestNG.FinalAssignmentTests.verifySearchPageTest" />
-        <item itemvalue="TestNG.FinalAssignmentTests.verifyNewReleasesPageTest" />
-        <item itemvalue="TestNG.FinalAssignmentTests.verifyPrimeOption" />
-        <item itemvalue="TestNG.FinalAssignmentTests.verifyFilterOnMonitorResult" />
-        <item itemvalue="TestNG.FinalAssignmentTests.verifySearchResult" />
       </list>
     </recent_temporary>
   </component>

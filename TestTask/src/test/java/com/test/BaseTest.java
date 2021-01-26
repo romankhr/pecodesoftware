@@ -49,7 +49,9 @@ public abstract class BaseTest {
                 driver = new ChromeDriver();
                 this.wait = new WebDriverWait(driver, Integer.parseInt(getTimeouts()));
             } else if (getBrowser().equals("firefox")) {
-                System.setProperty("webdriver.firefox.driver", "drivers//firefox//geckodriver.exe");
+                System.setProperty("webdriver.gecko.driver", "drivers//firefox//geckodriver.exe");
+//                System.setProperty("webdriver.firefox.driver", "drivers//firefox//geckodriver.exe");
+                System.out.println(System.getProperty("webdriver.firefox.driver"));
                 System.out.println(getBrowser().toString());
                 driver = new FirefoxDriver();
                 this.wait = new WebDriverWait(driver, Integer.parseInt(getTimeouts()));
@@ -88,6 +90,14 @@ public abstract class BaseTest {
 
     protected String getTimeouts() {
         return getProperty("test.timeout");
+    }
+
+    protected String getEmail() {
+        return getProperty("test.email");
+    }
+
+    protected String getApiKey() {
+        return getProperty("test.apiKey");
     }
 
     private static void loadPropertiesFromFile(String propertiesFilePath) {
